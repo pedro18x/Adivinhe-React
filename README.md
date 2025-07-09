@@ -4,7 +4,7 @@ Jogo de adivinhação de palavras desenvolvido em React, onde o usuário deve de
 
 ## Sobre o Projeto
 
-Esta aplicação é um jogo simples de adivinhação de palavras. A cada rodada, o usuário recebe uma dica relacionada a uma palavra oculta e deve tentar adivinhar, letra por letra, qual é a palavra. O objetivo é acertar todas as letras antes de esgotar o número máximo de tentativas.
+Esta aplicação é um jogo simples de adivinhação de palavras. A cada rodada, o usuário recebe uma dica relacionada a uma palavra oculta e deve tentar adivinhar, letra por letra, qual é a palavra.
 
 - A cada tentativa, o usuário informa uma letra.
 - Se a letra estiver na palavra, ela é revelada na posição correta.
@@ -22,6 +22,13 @@ Esta aplicação é um jogo simples de adivinhação de palavras. A cada rodada,
 
 ## Como Executar
 
+Siga os passos abaixo para executar o projeto localmente em sua máquina:
+
+1. **Clone o repositório**  
+   Se ainda não fez isso, clone o repositório para o seu computador:
+   ```bash
+   git clone https://github.com/pedro18x/Adivinhe-React.git
+   cd Adivinhe-React
 1. Instale as dependências:
    ```bash
    npm install
